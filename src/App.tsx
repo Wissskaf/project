@@ -11,8 +11,8 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-amber-50 to-amber-100">
       <div className="container mx-auto px-4 py-8">
         <header className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-amber-800 mb-2">Golden Jewelry</h1>
-          <p className="text-amber-700">Repair Management System</p>
+          <h1 className="text-4xl font-bold text-amber-800 mb-2">Skaf Shop</h1>
+          <p className="text-amber-700">Repair System</p>
         </header>
 
         <div className="grid md:grid-cols-2 gap-8">
